@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<!--
-**bobbyseptianto/bobbyseptianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Performance Overall
+
+![github stats](https://github-readme-stats.vercel.app/api?username=bobbyseptianto&show_icons=true)
+
+## My Github Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyseptianto&theme=vue">
 
 Here are some ideas to get you started:
 
